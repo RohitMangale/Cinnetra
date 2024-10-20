@@ -68,6 +68,3 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
 ## License 📜
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-Feel free to customize any section to better fit your project’s details or your personal style!
